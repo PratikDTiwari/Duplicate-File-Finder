@@ -110,7 +110,7 @@ The author is not responsible for any accidental data loss.
 
 ## Author
 
-[Your Name](https://github.com/PratikDTiwari)
+[Pratik Deepak Tiwari](https://github.com/PratikDTiwari)
 
 ---
 
