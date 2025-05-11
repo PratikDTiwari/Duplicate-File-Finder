@@ -91,7 +91,7 @@ Dry-run: Duplicate found - /Users/yourname/Documents/Photos/img1.jpg (would be m
 ## Contributing
 
 Pull requests and suggestions are welcome!  
-Please open an [issue](https://github.com/yourusername/duplicate-file-finder/issues) first to discuss any major changes.
+Please open an [issue](https://github.com/PratikDTiwari/Duplicate-File-Finder/issues) first to discuss any major changes.
 
 ---
 
@@ -110,11 +110,7 @@ The author is not responsible for any accidental data loss.
 
 ## Author
 
-[Your Name](https://github.com/yourusername)
-
----
-
-*Feel free to update the repository URL, author, and add screenshots as needed!*
+[Your Name](https://github.com/PratikDTiwari)
 
 ---
 
