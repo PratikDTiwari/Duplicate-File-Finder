@@ -9,7 +9,6 @@ Features a user-friendly GUI, supports folder exclusions, and offers a dry-run m
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Example](#example)
