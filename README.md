@@ -1,7 +1,3 @@
-Certainly! Here is a **ready-to-use `README.md` file** for your Duplicate File Finder project.  
-Just copy and paste this into your repository's `README.md` file.
-
----
 
 # Duplicate File Finder
 
