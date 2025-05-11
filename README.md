@@ -34,11 +34,6 @@ Features a user-friendly GUI, supports folder exclusions, and offers a dry-run m
 
 ---
 
-## Screenshots
-
-
-<!-- ![Screenshot of Duplicate File Finder GUI](screenshot.pngallation
-
 ### Requirements
 
 - Python 3.7 or higher
